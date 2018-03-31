@@ -24,3 +24,5 @@ sudo mv todoist-64bits/ /opt/todoist-64bits/
 # Creeate Todoist Desktop entry
 sudo python create_desktop_entry.py Todoist
 sudo mv todoist.desktop /usr/share/applications/
+
+sudop apt-get installl pgamdin3
